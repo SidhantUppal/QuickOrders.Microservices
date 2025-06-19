@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EJFZ1yWjXEgdofPDuCkI6K7bxG7aW6Me2xBPs4tyALU=",
+  "Source": "ApiGateWayMicroservice",
+  "BasePath": "_content/ApiGateWayMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@ApiGateWayMicroservice_HostAddress = http://localhost:5206
+
+GET {{ApiGateWayMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

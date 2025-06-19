@@ -1,0 +1,53 @@
+<div *ngIf="loading" class="loading">Loading item...</div>
+
+<div *ngIf="item && !loading" class="container">
+  <div class="image-section">
+    <div class="preview-container">
+  <img
+    [src]="item?.productImage || 'https://via.placeholder.com/250'"
+    alt="Product Image"
+    class="product-image"
+  />
+</div>
+
+    <!-- <div class="preview-images">
+      <img [src]="item.productImage || 'https://via.placeholder.com/80'" alt="thumb"/>
+    </div> -->
+    <!-- <div class="main-image">
+      <img [src]="item.productImage || 'https://via.placeholder.com/300'" alt="{{ item.name }}" />
+    </div> -->
+    <div class="action-buttons">
+      <button class="add-to-cart" (click)="addToCart()">🛒 ADD TO CART</button>
+      <button class="buy-now" (click)="buyNow()">⚡ BUY NOW</button>
+    </div>
+  </div>
+
+  <div class="details-section">
+    <h1>{{ item?.name || 'na'}}</h1>
+    <p class="rating">3.9 ★ | 40,204 Ratings & 3,150 Reviews</p>
+    <p class="price">₹{{ item.price }} <span class="original">₹3,499</span> <span class="discount">80% off</span></p>
+
+    <ul class="offers">
+      <li><strong>Bank Offer</strong> 100% Cashback upto ₹500 on Axis Bank SuperMoney Rupay CC</li>
+      <li><strong>Bank Offer</strong> 5% Unlimited Cashback on Flipkart Axis Bank Card</li>
+      <li><strong>Bank Offer</strong> 10% Instant Discount on SBI Credit Card EMI</li>
+    </ul>
+
+    <p class="warranty"><strong>Warranty:</strong> 1 Year Warranty</p>
+    <!-- <p class="delivery"><strong>Delivery by:</strong> 20 Jun, Friday</p> -->
+
+    <!-- <div class="color-options">
+      <strong>Color:</strong>
+      <img src="https://via.placeholder.com/40" *ngFor="let c of [1,2,3,4]" />
+    </div> -->
+
+    <!-- <div class="highlights">
+      <h3>Highlights</h3>
+      <ul>
+        <li>With Mic: Yes</li>
+        <li>Bluetooth version: 5.3</li>
+        <li>Connector Type: No</li>
+      </ul>
+    </div> -->
+  </div>
+</div>

@@ -1,0 +1,54 @@
+<!-- <div class="login-container">
+  <div class="login-card">
+    <h2>Login</h2>
+    <form (ngSubmit)="onLogin()" #loginForm="ngForm">
+      <input
+        type="email"
+        placeholder="Email"
+        [(ngModel)]="loginData.email"
+        name="email"
+        required
+      />
+      <input
+        type="password"
+        placeholder="Password"
+        [(ngModel)]="loginData.password"
+        name="password"
+        required
+        minlength="6"
+      />
+      <button type="submit" [disabled]="!loginForm.form.valid">Login</button>
+    </form>
+  </div>
+</div> -->
+
+
+<div class="login-container">
+  <div class="login-card">
+    <h2>Login</h2>
+    <form (ngSubmit)="onLogin()" #loginForm="ngForm">
+      <input
+        type="email"
+        placeholder="Email"
+        [(ngModel)]="loginData.email"
+        name="email"
+        required
+      />
+      <input
+        type="password"
+        placeholder="Password"
+        [(ngModel)]="loginData.password"
+        name="password"
+        required
+        minlength="6"
+      />
+      <button type="submit" [disabled]="!loginForm.form.valid">Login</button>
+    </form>
+
+    <!-- Register Section -->
+    <div class="register-section">
+      <p>New user?</p>
+      <button (click)="navigateToRegister()">Register</button>
+    </div>
+  </div>
+</div>

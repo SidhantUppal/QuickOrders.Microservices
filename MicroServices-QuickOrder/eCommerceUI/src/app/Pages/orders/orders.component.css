@@ -1,0 +1,30 @@
+.orders-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.orders-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.order-card {
+  border: 1px solid #eee;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.order-info p {
+  margin: 4px 0;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+}

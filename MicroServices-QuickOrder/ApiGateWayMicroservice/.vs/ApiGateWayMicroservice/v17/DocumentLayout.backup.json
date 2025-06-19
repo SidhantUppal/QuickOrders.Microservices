@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ApiGateWayMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|d:\\c#\\apigatewaymicroservice\\apigatewaymicroservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|solutionrelative:apigatewaymicroservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|d:\\c#\\apigatewaymicroservice\\apigatewaymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|solutionrelative:apigatewaymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|d:\\c#\\apigatewaymicroservice\\apigatewaymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA4573D7-5E22-44F0-BEC8-21840B5BD6D7}|ApiGateWayMicroservice\\ApiGateWayMicroservice.csproj|solutionrelative:apigatewaymicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateWayMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateWayMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T11:13:40.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateWayMicroservice\\Program.cs",
+              "ToolTip": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\Program.cs",
+              "RelativeToolTip": "ApiGateWayMicroservice\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:42:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateWayMicroservice\\ocelot.json",
+              "ToolTip": "D:\\C#\\ApiGateWayMicroservice\\ApiGateWayMicroservice\\ocelot.json",
+              "RelativeToolTip": "ApiGateWayMicroservice\\ocelot.json",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T10:41:50.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

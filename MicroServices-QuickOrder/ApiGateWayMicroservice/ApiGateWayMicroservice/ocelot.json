@@ -1,0 +1,150 @@
+﻿{
+  "Routes": [
+
+    //routes for users microservice
+    {
+      "DownstreamPathTemplate": "/api/Account/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5253
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/users/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+
+
+    //routes for items/products microservice
+    {
+      "DownstreamPathTemplate": "/api/items/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5152
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/items/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+
+    //routes for orders microservices
+    {
+      "DownstreamPathTemplate": "/api/orders/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5192
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/orders/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/orders/getuserorder/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5192
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/orders/getorder{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
+    //routes for cart service
+    //{
+    //  "DownstreamPathTemplate": "/api/cart/getusercart/{userId}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5106
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+    //  "UpstreamHttpMethod": [ "GET" ]
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/cart/addcartitem/{userId}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5106
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+    //  "UpstreamHttpMethod": [ "POST" ]
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/cart/clearusercart/{userId}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5106
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+    //  "UpstreamHttpMethod": [ "DELETE" ]
+    //}
+
+    {
+      "DownstreamPathTemplate": "/api/cart/removeitem/{userId}/{productId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5106
+        }
+      ],
+      "UpstreamPathTemplate": "/gatewaycart/cart/remove/{userId}/{productId}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/cart/clearusercart/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5106
+        }
+      ],
+      "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/cart/getusercart/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5106
+        }
+      ],
+      "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/cart/addcartitem/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5106
+        }
+      ],
+      "UpstreamPathTemplate": "/gatewaycart/cart/{userId}",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:7085"
+  }
+}

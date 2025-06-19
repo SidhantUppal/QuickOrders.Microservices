@@ -1,0 +1,27 @@
+<div class="orders-container" *ngIf="!isLoading; else loading">
+  <h2 class="orders-title">Your Orders</h2>
+
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>
+
+  <div *ngIf="orders.length > 0; else noOrders">
+    <div class="order-card" *ngFor="let order of orders">
+      <div class="order-info">
+        <p><strong>Order ID:</strong> {{ order.id }}</p>
+        <p><strong>Product ID:</strong> {{ order.itemId }}</p>
+        <p><strong>Quantity:</strong> {{ order.quantity }}</p>
+        <p><strong>Date:</strong> {{ order.createdAt | date:'medium' }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<ng-template #loading>
+  <p>Loading orders...</p>
+</ng-template>
+
+<ng-template #noOrders>
+  <p>You have not placed any orders yet.</p>
+</ng-template>
+

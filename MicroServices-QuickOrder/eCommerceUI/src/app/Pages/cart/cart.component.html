@@ -1,0 +1,81 @@
+<div class="cart-container" *ngIf="!isLoading; else loading">
+  <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+
+  <div *ngIf="cart" class="cart-wrapper">
+
+    <!-- Address Info -->
+<div class="address-section">
+  <div class="address-left">
+    <div class="address-title">
+      Deliver to: <strong>Saved Address</strong>
+    </div>
+    <div class="address-info">
+      John Doe, 123 Main Street, City, Country - 123456
+    </div>
+  </div>
+  <div class="address-right">
+    <button class="new-address-btn">+ New Address</button>
+  </div>
+</div>
+
+
+    <!-- Cart Items and Summary -->
+    <div class="main-content">
+
+      <div class="cart-items">
+        <div *ngFor="let item of cart.items" class="cart-card">
+          <div class="product-image">
+            <img [src]="item.productImage || 'https://via.placeholder.com/100'" alt="Product Image" />
+          </div>
+
+          <div class="product-details">
+            <h4>{{ item.productName }}</h4>
+            <p class="price">₹{{ item.price }}</p>
+
+            <div class="quantity-controls">
+              <button>-</button>
+              <span>{{ item.quantity }}</span>
+              <button>+</button>
+            </div>
+
+            <div class="actions">
+              <button class="btn-action">ORDER</button>
+              <button class="btn-action">REMOVE</button>
+            </div>
+          </div>
+
+          <div class="product-total">
+            ₹{{ item.total }}
+          </div>
+        </div>
+      </div>
+
+      <div class="cart-summary">
+        <h3>PRICE DETAILS</h3>
+        <div class="price-row">
+          <span>Price ({{ cart.items.length }} items)</span>
+          <span>₹{{ cart.totalAmount }}</span>
+        </div>
+        <div class="price-row">
+          <span>Discount</span>
+          <span class="discount">– ₹0</span>
+        </div>
+        <div class="price-row">
+          <span>Protect Promise Fee</span>
+          <span>₹29</span>
+        </div>
+        <hr />
+        <div class="price-row total">
+          <span>Total Amount</span>
+          <span>₹{{ cart.totalAmount + 29 }}</span>
+        </div>
+        <button class="place-order-btn">PLACE ORDER</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<ng-template #loading>
+  <div class="loading">Loading cart...</div>
+</ng-template>

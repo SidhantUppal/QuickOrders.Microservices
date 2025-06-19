@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CartMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\dataaccesslayer\\reposotires\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\dataaccesslayer\\reposotires\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\servicecontracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\servicecontracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\repositoriescontract\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\repositoriescontract\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\domainlayer\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\domainlayer\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\domainlayer\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\domainlayer\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\applicationlayer\\dto\\cartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\applicationlayer\\dto\\cartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\CartMicroservice\\CartMicroservice\\Migrations\\20250617071625_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CartMicroservice\\Migrations\\20250617071625_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|d:\\c#\\cartmicroservice\\cartmicroservice\\dataaccesslayer\\entityframeworkcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35896FF9-07DB-4574-84D1-E7AFC68E1090}|CartMicroservice\\CartMicroservice.csproj|solutionrelative:cartmicroservice\\dataaccesslayer\\entityframeworkcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:39:02.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CartMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CartMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T09:20:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\Dto\\CartItemDto.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartItemDto.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\Dto\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:22:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\Dto\\CartDto.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartDto.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:22:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartRequest.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartRequest.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\Dto\\CartRequest.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Dto\\CartRequest.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\Dto\\CartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:18:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250617071625_initial.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\Migrations\\20250617071625_initial.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\Migrations\\20250617071625_initial.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\Migrations\\20250617071625_initial.cs",
+              "RelativeToolTip": "CartMicroservice\\Migrations\\20250617071625_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:16:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\Program.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\Program.cs",
+              "RelativeToolTip": "CartMicroservice\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:42:13.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CartMicroservice\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:36:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "RelativeToolTip": "CartMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:20:47.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\DataAccessLayer\\Reposotires\\CartRepository.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\DataAccessLayer\\Reposotires\\CartRepository.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\DataAccessLayer\\Reposotires\\CartRepository.cs",
+              "RelativeToolTip": "CartMicroservice\\DataAccessLayer\\Reposotires\\CartRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:20:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\RepositoriesContract\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\RepositoriesContract\\ICartRepository.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\RepositoriesContract\\ICartRepository.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\RepositoriesContract\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:19:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\ServiceContracts\\ICartService.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\ServiceContracts\\ICartService.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\ServiceContracts\\ICartService.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\ServiceContracts\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:09:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\ApplicationLayer\\Services\\CartService.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\ApplicationLayer\\Services\\CartService.cs",
+              "RelativeToolTip": "CartMicroservice\\ApplicationLayer\\Services\\CartService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswLcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:09:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\DomainLayer\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\DomainLayer\\Models\\Cart.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\DomainLayer\\Models\\Cart.cs",
+              "RelativeToolTip": "CartMicroservice\\DomainLayer\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:06:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\C#\\CartMicroservice\\CartMicroservice\\DomainLayer\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CartMicroservice\\DomainLayer\\Models\\CartItem.cs",
+              "ToolTip": "D:\\C#\\CartMicroservice\\CartMicroservice\\DomainLayer\\Models\\CartItem.cs",
+              "RelativeToolTip": "CartMicroservice\\DomainLayer\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:06:36.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

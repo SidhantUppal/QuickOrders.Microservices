@@ -1,0 +1,142 @@
+.container {
+  display: flex;
+  padding: 2rem;
+  gap: 2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.image-section {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.preview-images {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.preview-images img {
+  width: 60px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.main-image img {
+  width: 250px;
+  border: 1px solid #eee;
+  padding: 10px;
+  background: #f9f9f9;
+}
+
+.action-buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 1rem;
+}
+
+button.add-to-cart {
+  background-color: orange;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+button.buy-now {
+  background-color: #fb641b;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.details-section {
+  width: 65%;
+}
+
+.details-section h1 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.rating {
+  color: green;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.price {
+  font-size: 26px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.original {
+  text-decoration: line-through;
+  color: #888;
+  margin-left: 10px;
+}
+
+.discount {
+  color: green;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.offers {
+  margin-top: 15px;
+  padding-left: 18px;
+  list-style: disc;
+}
+
+.warranty, .delivery {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.color-options {
+  margin-top: 20px;
+}
+
+.color-options img {
+  margin-right: 10px;
+  width: 40px;
+  border: 1px solid #ccc;
+  padding: 4px;
+}
+
+.highlights {
+  margin-top: 20px;
+}
+
+.highlights ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+.preview-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 300px;
+  margin: 1rem auto;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  background: #fff;
+}
