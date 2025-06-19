@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {}
+    "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {}
   },
   "projects": {
-    "D:\\C#\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {
+    "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
+        "projectUniqueName": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
         "projectName": "UsersMicroservice",
-        "projectPath": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
+        "projectPath": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\obj\\",
+        "outputPath": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

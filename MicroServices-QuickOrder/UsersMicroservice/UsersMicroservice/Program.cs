@@ -48,8 +48,18 @@ namespace UsersMicroservice // Define the main namespace
                     };
                 });
 
-            var app = builder.Build(); // Build the WebApplication
+            builder.Services.AddCors(options => // Register CORS policy
+            {
+                options.AddDefaultPolicy(policy =>
+                {
+                    policy.AllowAnyOrigin() // Allow requests from any origin
+                          .AllowAnyHeader() // Allow any HTTP header
+                          .AllowAnyMethod(); // Allow any HTTP method
+                });
+            });
 
+            var app = builder.Build(); // Build the WebApplication
+            app.UseCors(); // Use the configured CORS policy
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment()) // If in development environment
             {

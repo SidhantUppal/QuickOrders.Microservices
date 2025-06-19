@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MlUlGV1HP4s=",
+  "dgSpecHash": "ZOyX/6bP9q0=",
   "success": true,
-  "projectFilePath": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
+  "projectFilePath": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\UsersMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
