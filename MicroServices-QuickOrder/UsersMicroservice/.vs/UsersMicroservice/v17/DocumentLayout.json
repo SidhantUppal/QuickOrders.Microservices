@@ -1,70 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\UsersMicroservice\\",
+  "WorkspaceRootPath": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\servicecontract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\servicecontract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\servicecontract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\servicecontract\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\dataaccesslayer\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\dataaccesslayer\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\dataaccesslayer\\repositories\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\servicecontract\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\servicecontract\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\servicecontract\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\repositorycontract\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\repositorycontract\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\repositorycontract\\iusersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\UsersMicroservice\\UsersMicroservice\\Migrations\\20250616080141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersMicroservice\\Migrations\\20250616080141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\applicationlayer\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\applicationlayer\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\applicationlayer\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\c#\\usersmicroservice\\usersmicroservice\\dataaccesslayer\\entityframeworkcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\dataaccesslayer\\entityframeworkcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\dataaccesslayer\\entityframeworkcore\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|d:\\quickorders.microservices\\microservices-quickorder\\usersmicroservice\\usersmicroservice\\migrations\\20250616080141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6F25C-37A4-468F-B523-E3FF038CF293}|UsersMicroservice\\UsersMicroservice.csproj|solutionrelative:usersmicroservice\\migrations\\20250616080141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,89 +88,84 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UsersMicroservice\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Properties\\launchSettings.json",
               "RelativeToolTip": "UsersMicroservice\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T11:08:39.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T11:08:39.312Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
               "RelativeDocumentMoniker": "UsersMicroservice\\appsettings.json",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\appsettings.json",
               "RelativeToolTip": "UsersMicroservice\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T09:36:31.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T09:36:31.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20250616080141_initial.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Migrations\\20250616080141_initial.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Migrations\\20250616080141_initial.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Migrations\\20250616080141_initial.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Migrations\\20250616080141_initial.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Migrations\\20250616080141_initial.cs",
               "RelativeToolTip": "UsersMicroservice\\Migrations\\20250616080141_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:01:42.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T08:01:42.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Program.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Program.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Program.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Program.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Program.cs",
               "RelativeToolTip": "UsersMicroservice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T07:56:43.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:45:09.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:45:09.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\ServiceContract\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:44:46.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:44:46.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsersService.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\Services\\UsersService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAzwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T07:39:54.315Z",
               "EditorCaption": ""
@@ -179,118 +174,109 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IUsersService.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\ServiceContract\\IUsersService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:39:11.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:39:11.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\Controllers\\AccountController.cs",
               "RelativeToolTip": "UsersMicroservice\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:37:04.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:37:04.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DomainLayer\\Models\\User.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DomainLayer\\Models\\User.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\DomainLayer\\Models\\User.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DomainLayer\\Models\\User.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DomainLayer\\Models\\User.cs",
               "RelativeToolTip": "UsersMicroservice\\DomainLayer\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:29:27.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:29:27.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IUsersRepo.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\RepositoryContract\\IUsersRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:32:59.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:32:59.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UsersRepo.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
               "RelativeToolTip": "UsersMicroservice\\DataAccessLayer\\Repositories\\UsersRepo.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAtwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:32:40.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:32:40.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Response.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\Dto\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:31:29.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:31:29.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\Dto\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:30:25.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:30:25.072Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
               "RelativeToolTip": "UsersMicroservice\\ApplicationLayer\\Dto\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:29:54.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:29:54.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "DocumentMoniker": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
               "RelativeDocumentMoniker": "UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
-              "ToolTip": "D:\\C#\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
+              "ToolTip": "D:\\QuickOrders.Microservices\\MicroServices-QuickOrder\\UsersMicroservice\\UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
               "RelativeToolTip": "UsersMicroservice\\DataAccessLayer\\EntityFrameworkCore\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:26:26.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T07:26:26.844Z"
             }
           ]
         }
